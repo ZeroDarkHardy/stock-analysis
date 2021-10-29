@@ -16,11 +16,11 @@
 
 ### Background
 
--Our client, Steve, wants our help creating an efficient way to analyze green energy stocks.  Steve's goal is to help his parents diversify their investment portfolio and improve their investment strategy with data-driven decision making.  Currently, all of Steve's parent's holdings are in Daqo (DQ).  
+- Our client, Steve, wants our help creating an efficient way to analyze green energy stocks.  Steve's goal is to help his parents diversify their investment portfolio and improve their investment strategy with data-driven decision making.  Currently, all of Steve's parent's holdings are in Daqo (DQ).  
 
 ### Parameters
 
--Our source data includes ticker data from 12 different green energy stocks, including DQ, spanning the years 2017 and 2018.  We created an easy to use click-button interface that would analyse the volume and returns of those stocks, and display them in an ease-to-read format. After a working subroutine is created, our goal was to optimize the efficiency of that macro by refactoring its code. 
+- Our source data includes ticker data from 12 different green energy stocks, including DQ, spanning the years 2017 and 2018.  We created an easy to use click-button interface that would analyse the volume and returns of those stocks, and display them in an ease-to-read format. After a working subroutine is created, our goal was to optimize the efficiency of that macro by refactoring its code. 
 
 ## Results
 
