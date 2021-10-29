@@ -16,8 +16,8 @@
 
 ### Original Code
 
-![ORIGINAL_CODE](/Resources/full_originalcode.PNG)
+![ORIGINAL_CODE](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/full_original_code.PNG)
 
 ### Results of Original Code
 
-![ORIGINAL_RUNTIMES](/Resources/original_runtime_gallery.PNG)
+![ORIGINAL_RUNTIMES](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/original_runtime_gallery.png)
