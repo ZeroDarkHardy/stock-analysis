@@ -33,15 +33,15 @@
 ![tickerIndex_variable](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps1a_1b.PNG)
   
 - Our tickerVolume variable would be reset to 0 before each loop:
-- 
+
 ![tickerVolume_zero](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps2a_2b.PNG)
 
 - The tickerIndex could then be referenced as a qualifier in the operating formulas:
-- 
+
 ![increase_tickerVolume](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps3a_3b_3c_3d.PNG)
 
 - And then finally referenced by all three of our output arrays:
-- 
+
 ![output_arrays](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps4.PNG)
 
 ## Runtimes of Refactored Code
