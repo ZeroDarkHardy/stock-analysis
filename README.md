@@ -29,7 +29,7 @@
 ## Refactoring the Code
 
 - Introduction of a "tickerIndex" variable and 3 output arrays to our subroutine helped avoid nested "For Loops" in our code:
-- 
+
 ![tickerIndex_variable](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps1a_1b.PNG)
   
 - Our tickerVolume variable would be reset to 0 before each loop:
