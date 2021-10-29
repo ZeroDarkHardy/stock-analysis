@@ -2,15 +2,15 @@
 
 -*Matt Hardy, 2021*
 
-[Overview](##Overview-of-Project)
+[Overview](#overview-of-project)
 
 [Results-A](#results-of-original-code)
 
-[Refactoring the Code](##Refactoring-the-Code)
+[Refactoring the Code](#refactoring-the-code)
 
-[Results-B](##Runtimes-of-Refactored-Code)
+[Results-B](#runtimes-of-refactored-code)
 
-[Summary](#Summary)
+[Summary](#summary)
 
 ## Overview of Project
 
