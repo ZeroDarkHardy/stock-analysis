@@ -57,7 +57,7 @@
 ## Runtimes of Refactored Code
 ![refactored_runtime_galleries](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/refactored_runtime_gallery.png)
 
-###Analysis of Refactored Code
+### Analysis of Refactored Code
 
 - While a little less flashy in the formatting, the new refactored code was *VASTLY* more efficient than our original subroutine, running in just over 1/10th the amount of time!  This should help our client tremendously, should he choose to upscale his analysis to a wider scale of stocks.  (FULL REFACTORED CODE SHOWN AT BOTTOM OF PAGE)
 
