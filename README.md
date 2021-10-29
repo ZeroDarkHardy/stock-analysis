@@ -43,7 +43,7 @@ Upon analysis of that subroutine (shown below), the runtime of the code suggeste
 
 ## Runtimes of Refactored Code
 
-![refactored_runtime_galleries](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/refactored_runtime_gallery.PNG)
+![refactored_runtime_galleries](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/refactored_runtime_gallery.png)
 
 ### Analysis of Refactored Code
 
