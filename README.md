@@ -53,7 +53,7 @@
 
 ### Original vs Refactored VBA Script
 
-- In this case, the benefits of using our original code are minimal next to the vastly shortened runtime of the refactored code.  While the original code adds some additional formatting, color, and one additional decimal place as a measure of precision, the refactored code will process almost 10x the amount of data in the same runtime.  However, Steve's parent's may prefer the friendly, colorful formatting, and transposing those conditions to the refactored code should create a negligible difference.
+- In this case, the benefits of using our original code are minimal next to the vastly shortened runtime of the refactored code.  While the original code adds some additional formatting, color, and one additional decimal place as a measure of precision, the refactored code will process almost 10x the amount of data in the same runtime.  However, Steve's parent's may prefer the friendly, colorful formatting, and transposing those conditions to the refactored code should create a negligible difference in runtime.
 
 ### Refactored Code (Full Updated Script)
 ![full_refactored_macro](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/full_refactored_code.PNG)
