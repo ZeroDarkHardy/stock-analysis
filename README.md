@@ -4,7 +4,7 @@
 
 [Overview](##Overview-of-Project)
 
-[Results-A](###Results-of-Original-Code)
+[Results-A](#results-of-original-code)
 
 [Refactoring the Code](##Refactoring-the-Code)
 
