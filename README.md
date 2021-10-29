@@ -41,3 +41,22 @@ Upon analysis of that subroutine (shown below), the runtime of the code suggeste
 - And then finally referenced by all three of our output arrays:
 ![output_arrays](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps4.PNG)
 
+## Runtimes of Refactored Code
+
+![refactored_runtime_galleries](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/refactored_runtime_gallery.PNG)
+
+### Analysis of Refactored Code
+
+- While a little less flashy in the formatting, the new refactored code was *VASTLY* more efficient than our original subroutine, running in just over 1/10th the amount of time!  This should help our client tremendously, should he choose to upscale his analysis to a wider scale of stocks.  (FULL REFACTORED CODE SHOWN AT BOTTOM OF PAGE)
+
+## Summary
+
+- From this clear example, refactoring code within VBA subroutines can produce the desired results much faster upon execution.  However, a risk is present for potentially breaking existing code (which happened several times during the creation of our refactored subroutine).  Given unlimited work time, the benefits of refactoring are self-evident, but shouldn't be pursued if close to a deadline because of a variable risk of encountering time-consuming obstacles.
+
+### Original vs Refactored VBA Script
+
+- In this case, the benefits of using our original code are minimal next to the vastly shortened runtime of the refactored code.  While the original code adds some additional formatting, color, and one additional decimal place as a measure of precision, the refactored code will process almost 10x the amount of data in the same runtime.  However, Steve's parent's may prefer the friendly, colorful formatting, and transposing those conditions to the refactored code should create a negligible difference.
+
+## Refactored Code (Full Updated Script)
+
+![full_refactored_macro](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/full_refactored_code.PNG)
