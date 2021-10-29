@@ -47,7 +47,7 @@
 
 - While a little less flashy in the formatting, the new refactored code was *VASTLY* more efficient than our original subroutine, running in just over 1/10th the amount of time!  This should help our client tremendously, should he choose to upscale his analysis to a wider scale of stocks.  (FULL REFACTORED CODE SHOWN AT BOTTOM OF PAGE)
 
-## Summary
+# Summary
 
 - From this clear example, refactoring code within VBA subroutines can produce the desired results much faster upon execution.  However, a risk is present for potentially breaking existing code (which happened several times during the creation of our refactored subroutine).  Given unlimited work time, the benefits of refactoring are self-evident, but shouldn't be pursued if close to a deadline because of a variable risk of encountering time-consuming obstacles.
 
