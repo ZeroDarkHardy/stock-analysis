@@ -20,11 +20,11 @@
 ### Results of Original Code
 
 ![ORIGINAL_RUNTIMES](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/original_runtime_gallery.png)
-We can see from our analysis of this sample of stocks that Steve's parents may not have picked a winner in DQ.  While almost all of the stocks in our sample had positive returns in 2017, only two showed positively in 2018 (ENPH and RUN both showed net returns of over 80%).  At the very least, a visual representation of the volitility of this sector of the market should convince our client's parents to diversity their positions.
+- We can see from our analysis of this sample of stocks that Steve's parents may not have picked a winner in DQ.  While almost all of the stocks in our sample had positive returns in 2017, only two showed positively in 2018 (ENPH and RUN both showed net returns of over 80%).  At the very least, a visual representation of the volitility of this sector of the market should convince our client's parents to diversity their positions.
 
 ### Analysis of Original Code
 
-Upon analysis of that subroutine (shown below), the runtime of the code suggested that refactoring the code would be benificial before applying the macro on a larger scale.  While fully operational, the original code took well over 1 second to analyze only 12 stocks.  If applied to thousands of stocks, the macro would take an annoying long time to run.
+- Upon analysis of that subroutine (shown below), the runtime of the code suggested that refactoring the code would be benificial before applying the macro on a larger scale.  While fully operational, the original code took well over 1 second to analyze only 12 stocks.  If applied to thousands of stocks, the macro would take an annoying long time to run.
 
 ## Refactoring the Code
 
