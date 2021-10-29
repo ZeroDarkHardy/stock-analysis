@@ -24,7 +24,7 @@
 
 ### Analysis of Original Code
 
-- Upon analysis of that subroutine (shown below), the runtime of the code suggested that refactoring the code would be benificial before applying the macro on a larger scale.  While fully operational, the original code took well over 1 second to analyze only 12 stocks.  If applied to thousands of stocks, the macro would take an annoying long time to run.
+- Upon analysis of that subroutine (shown below), the runtime of the code suggested that refactoring the code would be benificial before applying the macro on a larger scale.  While fully operational, the original code took well over 1 second to analyze only 12 stocks.  If applied to thousands of stocks, the macro would take an annoyingly long time to run.
 
 ## Refactoring the Code
 
