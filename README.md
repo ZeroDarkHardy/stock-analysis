@@ -16,8 +16,8 @@
 
 ### Original Code
 
-/stock-analysis/Resources/full_originalcode.PNG
+[ORIGINAL_CODE](/stock-analysis/Resources/full_originalcode.PNG)
 
 ### Results of Original Code
 
-/stock-analysis/Resources/original_runtime_gallery.PNG
+[ORIGINAL_RUNTIMES](/stock-analysis/Resources/original_runtime_gallery.PNG)
