@@ -2,6 +2,8 @@
 
 -*Matt Hardy, 2021*
 
+### Table of Contents
+
 [Overview](#overview-of-project)
 
 [Results-A](#results-of-original-code)
